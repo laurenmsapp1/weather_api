@@ -1,6 +1,6 @@
 City,Tempature,Condition,Humidity,Wind Speed
-New York,70.0,"{'text': 'Sunny', 'icon': '//cdn.weatherapi.com/weather/64x64/day/113.png', 'code': 1000}",47,10.7
-Chicago,78.1,"{'text': 'Partly cloudy', 'icon': '//cdn.weatherapi.com/weather/64x64/day/116.png', 'code': 1003}",62,7.8
-Denver,74.3,"{'text': 'Partly cloudy', 'icon': '//cdn.weatherapi.com/weather/64x64/day/116.png', 'code': 1003}",23,2.9
-Los Angeles,70.0,"{'text': 'Mist', 'icon': '//cdn.weatherapi.com/weather/64x64/day/143.png', 'code': 1030}",78,4.0
-Honolulu,79.3,"{'text': 'Partly cloudy', 'icon': '//cdn.weatherapi.com/weather/64x64/day/116.png', 'code': 1003}",70,18.1
+New York,69.1,Sunny,47,9.8
+Chicago,82.9,Partly cloudy,53,7.4
+Denver,78.4,Partly cloudy,23,4.7
+Los Angeles,82.4,Sunny,45,6.7
+Honolulu,84.7,Partly cloudy,55,19.0
